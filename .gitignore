@@ -5,3 +5,7 @@ dist-ssr
 .DS_Store
 .vite
 npm-debug.log*
+
+# build/tooling cruft
+*.log
+vite.config.js.timestamp-*.mjs

@@ -104,8 +104,3 @@ public/                    # favicon.svg, social-card.svg
 Edit `src/data/brand.js`: name, tagline, flavors (colors drive the 3D cans and
 all accents automatically), stats, timeline, and testimonials. Adjust theme
 colors in `src/index.css` (`:root` and `[data-theme="light"]`).
-
----
-
-*Built with React, Three.js, Framer Motion and GSAP. Verified with a clean
-`vite build` (454 modules, no errors).*
